@@ -1,5 +1,8 @@
+import './app.scss';
+import Main from './MainComponent';
+
 const App = () => {
-    return <div>Hello World!</div>
+    return <Main />
 };
 
 export default App;
