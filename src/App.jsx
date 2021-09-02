@@ -1,8 +1,9 @@
 import './app.scss';
-import Main from './pages/HomeComponent';
+import Home from './pages/HomeComponent';
+import Watch from './pages/watch/WatchComponent';
 
 const App = () => {
-    return <Main />
+    return <Watch />
 };
 
 export default App;
