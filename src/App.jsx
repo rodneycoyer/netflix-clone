@@ -1,5 +1,5 @@
 import './app.scss';
-import Main from './MainComponent';
+import Main from './pages/HomeComponent';
 
 const App = () => {
     return <Main />
