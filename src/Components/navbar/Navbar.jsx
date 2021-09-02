@@ -21,10 +21,10 @@ const Navbar = () => {
                         alt="netflix logo"
                     />
                     <span>Home Page</span>
-                    <span>Series</span>
                     <span>Movies</span>
-                    <span>New and Popular</span>
-                    <span>My Lists</span>
+                    <span>Television</span>
+                    <span>Trending</span>
+                    <span>My Favs</span>
                 </div>
                 <div className="right">
                     <SearchIcon className="icon"/>
